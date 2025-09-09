@@ -1,4 +1,4 @@
-# Infosys
+# Internship tasks
 #  Task 1: Car Sales Data Cleaning & EDA
 
 ##  Objective
